@@ -1,6 +1,6 @@
-# 🌟 Exemplo Completo de Markdown
+# 🌟 Exemplo Completo e Avançado de Markdown
 
-Este documento mostra **vários recursos do Markdown** para deixar seus arquivos mais interessantes e informativos.
+Este documento mostra **diversos recursos do Markdown**, do básico ao avançado, para deixar seus arquivos mais interessantes, profissionais e interativos.
 
 ---
 
@@ -13,6 +13,13 @@ Este documento mostra **vários recursos do Markdown** para deixar seus arquivos
 6. [Citações](#-citações)
 7. [Diagramas Mermaid](#-diagramas-mermaid)
 8. [Matemática (LaTeX)](#-matemática-latex)
+9. [Mídia Avançada](#-mídia-avançada)
+10. [Badges e Status](#-badges-e-status)
+11. [Spoilers/Colapsáveis](#-spoilerscolapsáveis)
+12. [Tabelas Avançadas](#-tabelas-avançadas)
+13. [Diagramas Extras](#-diagramas-extras)
+14. [ASCII/Unicode](#-asciiunicode)
+15. [Blocos de Alerta](#-blocos-de-alerta)
 
 ---
 
@@ -117,6 +124,89 @@ $$\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}$$
 
 ---
 
+## 🎬 Mídia Avançada
+
+GIF animado:  
+![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+Vídeo embutido (HTML):  
+<video src="https://www.w3schools.com/html/mov_bbb.mp4" controls width="300"></video>
+
+---
+
+## 🏅 Badges e Status
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Versão](https://img.shields.io/badge/version-1.0.0-blue)
+![Licença](https://img.shields.io/badge/license-MIT-yellow)
+
+---
+
+## 📂 Spoilers/Colapsáveis
+
+<details>
+  <summary>Ver mais detalhes</summary>
+  Aqui dentro pode ter texto, código, imagens etc.
+</details>
+
+---
+
+## 📊 Tabelas Avançadas
+
+| Funcionalidade | Status   | Observações       |
+|----------------|----------|------------------|
+| Login          | ✅ Ok    | Em produção      |
+| Pagamentos     | 🚧 Em dev | Falta integração |
+| Relatórios     | ❌ Erro  | Revisar queries  |
+
+---
+
+## 📐 Diagramas Extras
+
+### Diagrama de sequência
+```mermaid
+sequenceDiagram
+    Alice->>Bob: Mensagem 1
+    Bob-->>Alice: Resposta
+```
+
+### Diagrama de classes
+```mermaid
+classDiagram
+    Animal <|-- Cachorro
+    Animal <|-- Gato
+    Animal : +String nome
+    Cachorro : +latir()
+    Gato : +miar()
+```
+
+---
+
+## 🔡 ASCII/Unicode
+
+Exemplo de menu com **ASCII Art**:  
+
+```text
++---------+
+|  MENU   |
++---------+
+| Opção 1 |
+| Opção 2 |
++---------+
+```
+
+---
+
+## ⚠️ Blocos de Alerta
+
+> [!NOTE]  
+> Este é um bloco de nota estilizado!  
+
+> [!WARNING]  
+> Atenção: algo importante aqui.  
+
+---
+
 ## 🎉 Conclusão
 
-Este arquivo `.md` reúne **recursos variados** para deixar sua documentação mais **rica e atrativa**.
+Este arquivo `.md` reúne **recursos do básico ao avançado** para deixar sua documentação mais **rica, interativa e atraente**.
