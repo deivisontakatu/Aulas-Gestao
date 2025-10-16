@@ -141,6 +141,37 @@ Empresas maduras promovem autonomia, aprendem com experimentos e usam métricas 
 - [ ] Plano de rollback / suporte definido  
 - [ ] Comunicação com marketing e CS alinhada
 
+### User Stories (modelo e exemplos)
+- Modelo: "Como [persona], quero [ação], para [benefício]."
+- Boas práticas: mantenha pequenas e testáveis; inclua critérios de aceite; use INVEST (Independent, Negotiable, Valuable, Estimable, Small, Testable).
+
+Exemplos:
+- Exemplo 1 — Sistema de E-commerce  
+  - Story: "Como cliente, quero adicionar produtos ao carrinho, para poder comprá-los todos de uma só vez."  
+  - Critérios de aceite (ex.:):  
+    - Produto pode ser adicionado/remoção do carrinho.  
+    - Quantidade atualiza corretamente.  
+    - Carrinho persiste durante a sessão.  
+    - Usuário consegue iniciar checkout a partir do carrinho.
+
+- Exemplo 2 — Sistema de Gestão de Projetos  
+  - Story: "Como gerente de projetos, quero visualizar o progresso das tarefas em um painel, para acompanhar o andamento da equipe."  
+  - Critérios de aceite (ex.:):  
+    - Painel mostra tarefas por status (To Do, Doing, Done).  
+    - Permite filtrar por equipe/projeto.  
+    - Exibe percentuais de conclusão e marcos.  
+    - Atualizações refletem mudanças em tempo razoável.
+
+- Exemplo 3 — Sistema Acadêmico  
+  - Story: "Como aluno, quero acessar minhas notas online, para saber meu desempenho em cada disciplina."  
+  - Critérios de aceite (ex.:):  
+    - Aluno vê notas por disciplina e por período.  
+    - Acesso protegido por autenticação.  
+    - Possibilidade de exportar ou imprimir boletim.  
+    - Histórico de notas disponível para o período solicitado.
+
+Dica rápida: sempre associe a user story a métricas ou critérios que permitam validar se a hipótese foi atendida.
+
 ---
 
 ## 🗺️ Exemplo: Roadmap Temático (tabela simplificada)
