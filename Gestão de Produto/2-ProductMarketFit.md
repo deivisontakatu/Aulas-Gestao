@@ -4,13 +4,6 @@
 
 ---
 
-## 🎯 Objetivo do módulo
-
-Neste módulo, você vai compreender como **alcançar o encaixe ideal entre produto e mercado (Product Market Fit)**, além de aprender a **definir a proposta de valor** e a **estruturar modelos de negócio** sólidos.  
-Também veremos **estratégias de mitigação de riscos** em produtos digitais, com exemplos de empresas reais.
-
----
-
 ## 🧩 Business Model Canvas e Proposta de Produto
 
 O **Business Model Canvas (BMC)** é uma ferramenta visual que ajuda a entender **como um produto cria, entrega e captura valor**.  

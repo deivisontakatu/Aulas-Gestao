@@ -1,25 +1,14 @@
-# 📘 Módulo 03 — Product Discovery & Design
+# 📘 Product Discovery & Design
 
 > **Material de Aula — Product Management**
 
----
 
-## 🎯 Objetivo do Módulo
+> 🔍 **Processo de Discovery**
 
-Neste módulo, você vai aprender **como trabalhar lado a lado com profissionais de UX Design**, compreender profundamente as **dores e necessidades do usuário** e dominar o **processo de descoberta de soluções**.  
-Também veremos **técnicas modernas de prototipação, entrevistas e mapeamento da jornada do usuário**, aplicadas de forma prática.  
-
-> 🔍 **Discovery sem enrolação!**
 
 ---
 
-## 👥 Instrutores deste módulo
-
-Os instrutores deste módulo compartilham experiências reais de mercado sobre como conduzir **processos de descoberta e design centrado no usuário**, colaborando com Product Managers e equipes multidisciplinares.
-
----
-
-## 3.1 🧠 Fundamentos da Experiência do Usuário
+## 🧠 Fundamentos da Experiência do Usuário
 
 ### 📖 O que é Experiência do Usuário (UX)
 
@@ -41,7 +30,7 @@ O objetivo do design de UX é **garantir que a experiência seja simples, agrad�
 
 ---
 
-## 3.2 🤝 Como um PM e UX Trabalham Juntos
+## 🤝 Como um PM e UX Trabalham Juntos
 
 O relacionamento entre **Product Manager (PM)** e **UX Designer** é fundamental no desenvolvimento de produtos digitais.
 
@@ -59,12 +48,10 @@ Ambos colaboram desde o **Discovery até o Delivery**, equilibrando valor de neg
 | **Product Manager** | Identificar problemas, priorizar oportunidades, definir métricas de sucesso. |
 | **UX Designer** | Compreender o usuário, mapear jornadas, criar fluxos e protótipos de solução. |
 
-> 🎬 *Estudo de Caso: Creditas*  
-> A Creditas é um ótimo exemplo de integração entre PMs e Designers. A equipe trabalha em ciclos curtos de Discovery, validando hipóteses junto a usuários reais e garantindo alinhamento entre estratégia, design e tecnologia.
 
 ---
 
-## 3.3 🔍 Explorar Problemas e Descobrir Oportunidades
+## 🔍 Explorar Problemas e Descobrir Oportunidades
 
 A etapa de **exploração de problemas** é onde o Product Manager identifica **o que realmente precisa ser resolvido**.
 
@@ -94,7 +81,7 @@ Evite soluções prematuras antes de entender a raiz da questão.
 
 ---
 
-## 3.4 💭 Ideação e Definição da Solução
+## 💭 Ideação e Definição da Solução
 
 Depois de compreender o problema, é hora de **gerar ideias e estruturar soluções**.
 
@@ -148,7 +135,7 @@ A **validação** é o momento de confirmar se a solução proposta realmente re
 
 ---
 
-## 3.6 🗺️ Jornada do Usuário
+## 🗺️ Jornada do Usuário
 
 A **Jornada do Usuário** é uma representação visual das **etapas que o usuário percorre** ao interagir com o produto — desde o primeiro contato até o uso contínuo.
 
@@ -159,6 +146,9 @@ A **Jornada do Usuário** é uma representação visual das **etapas que o usuá
 3. **Uso recorrente:** interação contínua e engajamento.  
 4. **WOW Moment:** quando o produto supera as expectativas.  
 5. **AHA Moment:** quando o usuário entende o valor real da solução.
+
+![Exemplo de Mada da Jornada do Usuário](https://pm3.com.br/wp-content/uploads/2023/01/jornada-do-usuario-6-1-1024x768.png)
+> *Figura 1 — Exemplo de Mada da Jornada do Usuário.*
 
 ---
 
@@ -172,14 +162,17 @@ A **Jornada do Usuário** é uma representação visual das **etapas que o usuá
 
 ---
 
-## 📚 Conclusão do Módulo
+## 🚀 Desafio — Jornada de Valor do Usuário
 
-Neste módulo, você aprendeu:
+Agora é hora de pensar como o seu produto **conquista, encanta e retém usuários** ao longo do tempo.  
+Com base nas **cinco etapas da jornada de valor** — Descoberta, Onboarding, Uso Recorrente, WOW Moment e AHA Moment —, o desafio é **mapear a experiência completa do usuário** em um produto digital de sua escolha.  
 
-- Os fundamentos da **Experiência do Usuário (UX)**;  
-- Como **PM e UX trabalham juntos** no ciclo de produto;  
-- Métodos para **descobrir problemas e gerar oportunidades**;  
-- Técnicas de **ideação, prototipagem e validação**;  
-- A importância de **mapear a jornada do usuário** e criar experiências memoráveis.
+- Como o usuário **descobre** o produto pela primeira vez?  
+- O que acontece no **onboarding** que o ajuda a entender como usar?  
+- Quais elementos promovem o **uso recorrente** e mantêm o engajamento?  
+- Em que momento o produto entrega o **WOW Moment**, superando expectativas?  
+- E quando ocorre o **AHA Moment**, aquele instante em que o usuário percebe o verdadeiro valor da solução?  
 
-> ✨ *O verdadeiro valor de um produto nasce da combinação entre empatia, experimentação e aprendizado contínuo.*
+🎯 **Monte um painel visual ou um mapa da jornada**, destacando os pontos de contato e as emoções do usuário em cada fase.  
+Use exemplos reais e criativos — pode ser um app que você usa, um serviço online ou até um produto desenvolvido por você.
+
