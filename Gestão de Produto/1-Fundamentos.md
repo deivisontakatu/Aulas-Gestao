@@ -156,17 +156,34 @@ O **modelo Spotify** introduziu os conceitos de **squads, tribos, chapters e gui
 > O importante é o princípio: **autonomia com alinhamento**.
 
 ---
+## 💡 A Matriz BCG
 
-### 🧩 Topologia dos Times
+Aqui está uma representação visual da Matriz BCG para ajudar no entendimento:
 
-A **Topologia de Times (Team Topologies)** é uma abordagem moderna que organiza equipes com base no fluxo de valor:
+![Matriz BCG exemplo](https://media.treasy.com.br/media/2018/02/Matriz-BCG.png)
 
-| Tipo de Time | Foco Principal |
-|---------------|----------------|
-| **Stream-aligned** | Entrega de valor direto ao usuário ou área do negócio. |
-| **Enabling** | Apoia outros times com conhecimento técnico. |
-| **Complicated Subsystem** | Resolve desafios técnicos complexos. |
-| **Platform Team** | Cria ferramentas e infraestrutura interna. |
+A Matriz se divide em quatro quadrantes que representam diferentes estágios e estratégias de um produto no mercado:
+
+| Quadrante                        | Descrição                                                                               | Exemplo                          |
+|----------------------------------|------------------------------------------------------------------------------------------|----------------------------------|
+| ⭐ **Estrelas (Stars)**           | Produtos com alta participação de mercado e alto crescimento. Precisam de investimento. | Nubank, TikTok, Notion          |
+| 🐄 **Vacas Leiteiras (Cash Cows)**| Produtos consolidados, que geram receita constante e sustentam outros investimentos.     | Google Search, WhatsApp, Netflix|
+| ❓ **Interrogações (Question Marks)** | Produtos promissores, mas que ainda não se provaram. Precisam de decisões estratégicas.   | Threads, BeReal, Metaverso       |
+| 🐢 **Abacaxis (Dogs)**           | Produtos com baixa participação e crescimento. Exigem reavaliação ou descontinuação.      | Orkut, Yahoo Messenger, Clubhouse|
+
+---
+
+## 🚀 Desafio
+
+Agora, olhem ao redor e pensem nos **produtos e plataformas digitais** que vocês usam todos os dias.  
+O desafio é posicionar cada um deles dentro da **Matriz BCG**, justificando brevemente o motivo.
+
+- O **Instagram** ainda é uma estrela ou já virou uma vaca leiteira?  
+- O **ChatGPT** é uma estrela em ascensão ou uma interrogação que ainda está provando seu modelo de negócio?  
+- E o **Twitter/X**, está virando um abacaxi ou encontrando um novo caminho de crescimento?
+
+Montem um **painel visual** (físico ou digital) que mostre onde cada produto se encaixa na matriz.  
+Pensem no ciclo de vida, no crescimento do mercado e no valor entregue ao usuário.
 
 ---
 
