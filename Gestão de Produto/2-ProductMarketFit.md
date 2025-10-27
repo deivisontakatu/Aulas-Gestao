@@ -18,7 +18,7 @@ Ele representa, em um único quadro, todos os elementos essenciais do negócio.
 
 ### 📊 Estrutura do Business Model Canvas
 
-![Exemplo de Business Model Canvas](BusinessModelCanvas.jpg)
+![Exemplo de Business Model Canvas](https://miro.medium.com/v2/0*Gew7xxse9uN8Zkdz.jpg)
 > *Figura 1 — Exemplo visual do Business Model Canvas.*
 
 | Bloco | Descrição |
@@ -171,15 +171,16 @@ O **Gympass** mitigou riscos ao diversificar seu modelo de negócio:
 em vez de depender de assinaturas individuais, passou a oferecer **planos corporativos**, garantindo previsibilidade de receita e expansão global.
 
 ---
+## 🚀 Desafio
 
-## 📚 Conclusão do Módulo
+Agora, olhem ao redor e pensem nos **produtos e plataformas digitais** que vocês usam todos os dias.  
+O desafio é montar o **Business Model Canvas (BMC)** de um desses produtos, entendendo como ele cria, entrega e captura valor.
 
-Neste módulo, você aprendeu:
+- Como o **Netflix** organiza seu modelo de negócio para oferecer conteúdo sob demanda no mundo todo?  
+- O **iFood** é apenas um app de delivery ou uma plataforma complexa que conecta múltiplos públicos?  
+- E o **Nubank**, como estrutura suas receitas e mantém sua proposta de valor simples e escalável?
 
-- Como utilizar **Business Model Canvas** e **Lean Canvas**;  
-- Como criar uma **proposta de valor clara e forte**;  
-- O que são **Product Solution Fit**, **Product Market Fit** e **Economic Fit**;  
-- Como empresas reais atingiram o PMF;  
-- Quais estratégias usar para **mitigar riscos em produtos digitais**.
+Escolham **um produto ou serviço digital real** (como Spotify, Uber, Shopee, Duolingo, Instagram ou ChatGPT) e preencham os **nove blocos do Business Model Canvas** com base em suas observações e pesquisas.
 
-> ✨ *“Encontrar o Market Fit é mais do que ter um bom produto — é entender profundamente o mercado e o cliente.”*
+Montem um **painel visual** (físico ou digital) que mostre como esse produto opera.  
+Pensem na proposta de valor, nos canais de entrega, nas fontes de receita e em tudo que sustenta o modelo de negócio.

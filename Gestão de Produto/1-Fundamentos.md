@@ -168,8 +168,8 @@ A Matriz se divide em quatro quadrantes que representam diferentes estágios e e
 |----------------------------------|------------------------------------------------------------------------------------------|----------------------------------|
 | ⭐ **Estrelas (Stars)**           | Produtos com alta participação de mercado e alto crescimento. Precisam de investimento. | Nubank, TikTok, Notion          |
 | 🐄 **Vacas Leiteiras (Cash Cows)**| Produtos consolidados, que geram receita constante e sustentam outros investimentos.     | Google Search, WhatsApp, Netflix|
-| ❓ **Interrogações (Question Marks)** | Produtos promissores, mas que ainda não se provaram. Precisam de decisões estratégicas.   | Threads, BeReal, Metaverso       |
-| 🐢 **Abacaxis (Dogs)**           | Produtos com baixa participação e crescimento. Exigem reavaliação ou descontinuação.      | Orkut, Yahoo Messenger, Clubhouse|
+| ❓ **Interrogações (Question Marks)** | Produtos promissores, mas que ainda não se provaram. Precisam de decisões estratégicas.   | Threads,  Metaverso       |
+| 🐢 **Abacaxis (Dogs)**           | Produtos com baixa participação e crescimento. Exigem reavaliação ou descontinuação.      | Orkut, Yahoo Messenger|
 
 ---
 
@@ -185,17 +185,3 @@ O desafio é posicionar cada um deles dentro da **Matriz BCG**, justificando bre
 Montem um **painel visual** (físico ou digital) que mostre onde cada produto se encaixa na matriz.  
 Pensem no ciclo de vida, no crescimento do mercado e no valor entregue ao usuário.
 
----
-
-## 📚 Encerramento
-
-Com este conteúdo, você aprendeu:
-
-- Os fundamentos do **Product Management**;  
-- As diferenças entre **produtos e plataformas**;  
-- Como funciona a **curva da inovação**;  
-- As **habilidades essenciais** e o **papel do Product Manager**;  
-- O que é **liderança de produto** e **carreira em Y**;  
-- Como são estruturados os **times de produto modernos**.
-
-> ✨ *Gerenciar produtos é compreender pessoas, negócios e tecnologia — e conectá-los de forma inteligente e empática.*
