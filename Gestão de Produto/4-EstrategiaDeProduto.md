@@ -1,23 +1,11 @@
-# 📘 Módulo 04 — Estratégia de Produto
+# 📘 Estratégia de Produto
 
 > **Material de Aula — Product Management**
 
 ---
 
-## 🎯 Objetivo do Módulo
 
-Neste módulo, você vai compreender como **construir e aplicar uma estratégia de produto** sólida e sustentável, alinhando visão, objetivos e execução.  
-Vamos explorar **roadmaps, planejamento de releases, pesquisa de mercado** e **gestão de stakeholders**, pilares fundamentais para o sucesso de qualquer Product Manager.
-
----
-
-## 👥 Instrutores deste módulo
-
-Os instrutores compartilham **cases e práticas reais de mercado**, mostrando como diferentes empresas estruturam suas estratégias de produto e tomam decisões baseadas em dados e propósito.
-
----
-
-## 4.1 🧭 Estratégia e Visão de Produto
+## 🧭 Estratégia e Visão de Produto
 
 ### 💡 O que é a visão de produto?
 
@@ -49,7 +37,7 @@ Passos fundamentais:
 
 ---
 
-## 4.2 🗺️ Roadmap de Produto
+## 🗺️ Roadmap de Produto
 
 ### 📖 O que é um Roadmap?
 
@@ -79,7 +67,7 @@ Hoje, a abordagem moderna é **orientada a resultados**, focando no **impacto ge
 
 ---
 
-## 4.3 🚀 Release Planning
+## 🚀 Release Planning
 
 ### 📘 O que é Release Planning?
 
@@ -114,7 +102,7 @@ Cada release deve representar um **avanço perceptível de valor** para o usuár
 
 ---
 
-## 4.4 🔍 Market Research
+## 🔍 Market Research
 
 ### 📊 O que é Pesquisa de Mercado (Market Research)
 
@@ -149,7 +137,7 @@ A **Análise SWOT** ajuda a entender o contexto do produto, mapeando:
 
 ---
 
-## 4.5 🤝 Como Gerenciar Stakeholders
+## 🤝 Como Gerenciar Stakeholders
 
 ### 👥 Quem são os Stakeholders?
 
@@ -194,14 +182,56 @@ Demandas inesperadas são comuns. Para lidar bem com elas:
 
 ---
 
-## 📚 Conclusão do Módulo
 
-Neste módulo, você aprendeu:
+## 🛍️ Tendência Emergente — Live Commerce
 
-- O que é e como construir uma **visão e estratégia de produto**;  
-- Como estruturar e comunicar um **roadmap orientado a resultados**;  
-- A importância do **planejamento de releases** e priorização eficaz;  
-- Como realizar uma **pesquisa de mercado e análise competitiva**;  
-- E como **gerenciar stakeholders** com alinhamento e propósito.
+### 📺 O que é Live Commerce?
 
-> ✨ *Uma boa estratégia transforma boas ideias em produtos sustentáveis e relevantes.*
+O **Live Commerce** é a combinação de **transmissões ao vivo (lives)** com **experiência de compra online**.  
+Durante a live, apresentadores demonstram produtos, tiram dúvidas e oferecem descontos em tempo real, promovendo **interatividade e conversão instantânea**.
+
+---
+
+### 🌏 Sucesso na China e Oportunidades no Brasil
+
+Na **China**, o Live Commerce já é uma revolução: plataformas como **Taobao Live** e **Douyin (TikTok)** movimentam bilhões de dólares em vendas anuais.  
+O modelo transformou influenciadores em **vendedores digitais**, aproximando marcas e consumidores de forma autêntica e engajante.
+
+No **Brasil**, o conceito ainda é **relativamente novo**, mas tem **grande potencial de crescimento**, impulsionado por:
+- A popularização das **lives e redes sociais**;  
+- O aumento do **comércio eletrônico**;  
+- O interesse das marcas em **criar experiências mais humanas e interativas**.
+
+> 💡 O Live Commerce representa uma **nova fronteira para produtos digitais**, unindo entretenimento, influência e conversão em um mesmo fluxo.
+
+---
+
+### 🧭 Estratégia de Produto no Contexto do Live Commerce
+
+Para explorar esse mercado, é essencial que o **Product Manager**:
+- Analise o comportamento do consumidor digital brasileiro;  
+- Entenda as **diferenças culturais e tecnológicas** entre o público chinês e o local;  
+- Desenvolva **soluções escaláveis** para transmissões ao vivo integradas com e-commerce;  
+- Foque em **experiência do usuário**, **engajamento** e **métricas de conversão**.
+
+> 🚀 O Live Commerce é uma oportunidade para **inovar na jornada de compra** e **reposicionar o produto digital** como um canal de engajamento e vendas em tempo real.
+
+---
+
+## 🚀 Desafio — Construindo o Roadmap de Produto
+
+Chegou o momento de transformar a **visão do produto** em um **plano estratégico visual**.  
+O objetivo deste desafio é **criar um roadmap de produto** que comunique **o que será feito**, **por que é importante** e **como isso se conecta aos objetivos do negócio**.
+
+Com base no conteúdo estudado, defina um **roadmap de 6 meses** para um produto digital de sua escolha — pode ser um app, plataforma web ou serviço inovador.
+
+---
+
+### 🎯 Para guiar sua construção, reflita sobre:
+
+- 🧭 Qual é a **visão e o propósito** do produto?  
+- 🎯 Quais **objetivos estratégicos (OKRs)** você quer alcançar nesse período?  
+- 🧩 Quais **iniciativas** ou **temas principais** ajudarão a atingir esses objetivos?  
+- ⚙️ Quais são as **entregas planejadas** (features, melhorias, lançamentos)?  
+- 📏 Como você vai **medir o sucesso** de cada etapa? (métricas e indicadores)
+

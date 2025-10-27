@@ -1,4 +1,4 @@
-# 🌟 Módulo 07 — Cultura de Produto
+# 🌟 Cultura de Produto
 
 > **Material de Aula — Product Management**
 
@@ -16,18 +16,7 @@ Neste módulo, você vai aprender:
 
 ---
 
-## 👥 Instrutores deste módulo
-
-| Instrutor | Cargo | Empresa |
-|-----------|-------|---------|
-| Maria Luiza Catadori | Product Manager | Stripe |
-| Pedro Axelrud | Diretor de Produto | Nubank |
-| Thiago Belluf | Product Director | UME |
-| Marcela Schaepfer | Head de Product Operations | VTEX |
-
----
-
-## 7.1 Princípios de Bons Times de Produto
+## Princípios de Bons Times de Produto
 
 ### 💡 Times de Alta Performance
 
@@ -51,7 +40,7 @@ Times de produto de alta performance possuem características específicas:
 
 ---
 
-## 7.2 Product Operations
+## Product Operations
 
 ### 💡 Conceito
 
@@ -75,7 +64,7 @@ Times de produto de alta performance possuem características específicas:
 
 ---
 
-## 7.3 Estabelecendo uma Cultura Forte de Produto
+## Estabelecendo uma Cultura Forte de Produto
 
 ### 💡 Conceito
 
@@ -94,7 +83,7 @@ Cultura forte de produto é **quando todos no time entendem prioridades, valores
 
 ---
 
-## 7.4 Erros e Acertos Mais Comuns
+## Erros e Acertos Mais Comuns
 
 ### ⚠️ Erros Comuns
 
@@ -113,14 +102,3 @@ Cultura forte de produto é **quando todos no time entendem prioridades, valores
 - Aprendizado a partir de erros e feedbacks constantes.
 
 ---
-
-### 📚 Conclusão do Módulo
-
-Neste módulo, você aprendeu:
-
-- Princípios de **times de produto de alta performance**;  
-- Fundamentos e pilares de **Product Operations**;  
-- Como **criar e manter uma cultura de produto forte**;  
-- Principais **erros e acertos na gestão de produtos**, com exemplos reais de Nubank, Creditas e VTEX.
-
-> ✨ *Uma cultura forte de produto garante alinhamento, aprendizado contínuo e foco no valor entregue ao usuário.*

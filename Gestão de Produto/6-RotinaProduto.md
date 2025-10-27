@@ -1,4 +1,4 @@
-# 🏃 Módulo 06 — Dia a Dia de Produto
+# 🏃 Dia a Dia de Produto
 
 > **Material de Aula — Product Management**
 
@@ -11,18 +11,6 @@ Neste módulo, você aprenderá **técnicas, frameworks e metodologias ágeis** 
 
 ---
 
-## 👥 Instrutores deste módulo
-
-| Instrutor | Cargo | Empresa |
-|-----------|-------|---------|
-| Raphael Albino | HR Manager | Nubank |
-| Priscilla Lugão | Coordenadora de Produto | PM3 |
-| Priscila Chagas | Product Expert | Bain & Company |
-| Raphael Farinazzo | Head de Produto | Único |
-
-> Cada instrutor traz experiências práticas e cases reais do dia a dia de produtos digitais.
-
----
 
 ## 6.1 ⚡ Priorização de Backlog e Sprints
 

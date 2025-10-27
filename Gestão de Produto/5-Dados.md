@@ -1,8 +1,6 @@
-# 📊 Módulo 05 — Dados e Analytics
+# 📊 Dados e Analytics
 
-> **Material de Aula — Product Management**
-
----
+>---
 
 ## 🎯 Introdução
 
@@ -13,13 +11,8 @@ Ao final, você terá domínio sobre os principais conceitos e ferramentas de **
 
 ---
 
-## 👥 Instrutores deste módulo
 
-Especialistas de mercado compartilham experiências reais sobre como a análise de dados transforma o processo decisório em empresas de tecnologia, destacando **exemplos práticos e cases como GetNinjas, Nubank e Gympass**.
-
----
-
-## 5.1 📈 Lidando com Métricas de Negócio e Produto
+## 📈 Lidando com Métricas de Negócio e Produto
 
 ### 💡 O que são métricas?
 
@@ -57,7 +50,7 @@ Uma boa métrica deve ser:
 
 ---
 
-## 5.2 📉 Como Usar Dados para Tomar Decisões
+## 📉 Como Usar Dados para Tomar Decisões
 
 ### 🧠 Data-Driven Product Management
 
@@ -88,7 +81,7 @@ Os PMs da GetNinjas analisam **taxas de conversão e recorrência** para identif
 
 ---
 
-## 5.3 🧮 SQL para Análise de Dados
+## 🧮 SQL para Análise de Dados
 
 ### 🔍 Por que SQL é importante para PMs?
 
@@ -119,7 +112,7 @@ Isso traz **autonomia, agilidade e profundidade** na análise.
 
 ---
 
-## 5.4 🧪 Testes A/B
+## 🧪 Testes A/B
 
 ### 🧬 O que é um Teste A/B?
 
@@ -157,7 +150,7 @@ Um **teste A/B** compara duas (ou mais) versões de uma funcionalidade, página 
 
 ---
 
-## 5.5 🛠️ Ferramentas do Dia a Dia
+## 🛠️ Ferramentas do Dia a Dia
 
 ### ⚙️ Por que usar ferramentas de Analytics?
 
@@ -178,16 +171,45 @@ Ferramentas ajudam o PM a **monitorar comportamento do usuário**, **identificar
 > 💬 Use ferramentas que se integrem ao stack da empresa e garantam **confiabilidade dos dados**.
 
 ---
+## 🚀 Desafio — Product Analytics na Prática
 
-## 📚 Conclusão do Módulo
+Chegou o momento de **colocar os dados para trabalhar a favor do produto**!  
+Neste desafio, você vai **assumir o papel de Product Manager orientado por dados**, aplicando tudo o que aprendeu sobre **métricas, experimentação e analytics**.
 
-Neste módulo, você aprendeu:
+---
 
-- Como definir e equilibrar **métricas de negócio e produto**;  
-- Como usar **dados para tomar decisões estratégicas**;  
-- Como extrair informações com **SQL**;  
-- Como aplicar **testes A/B** na prática;  
-- E quais **ferramentas** auxiliam o trabalho de um PM moderno.
+### 🎯 Objetivo
 
-> ✨ *Dados são a bússola do Product Manager — mas o julgamento e a empatia continuam sendo o leme.*
+Criar uma **análise estratégica baseada em dados** para um produto digital de sua escolha — pode ser um **app, e-commerce, plataforma SaaS ou marketplace**.  
+Você deverá **definir métricas-chave**, **formular hipóteses**, **propor testes A/B** e **indicar quais insights podem orientar melhorias reais no produto.**
 
+---
+
+### 🧩 Etapas do Desafio
+
+1. **Escolha o produto digital**  
+   Pode ser um produto real (ex: Spotify, iFood, Nubank) ou fictício.  
+
+2. **Defina a métrica principal (North Star Metric)**  
+   - Qual indicador melhor representa o sucesso do produto?  
+   - Exemplos: tempo de uso, conversão, taxa de recompra, retenção etc.
+
+3. **Liste métricas de apoio (input metrics)**  
+   - Quais métricas ajudam a entender os resultados da North Star Metric?  
+   - Ex: cliques em botões, sessões por usuário, tempo médio na tela.
+
+4. **Formule uma hipótese**  
+   - Exemplo: *“Se simplificarmos o fluxo de cadastro, a taxa de conversão aumentará em 20%.”*
+
+5. **Desenhe um teste A/B**  
+   - Descreva como você validaria a hipótese:  
+     - Variável testada  
+     - Grupos A (controle) e B (variação)  
+     - Métrica de sucesso  
+     - Tempo estimado do experimento
+
+6. **Interprete os resultados (simulados)**  
+   - Imagine os resultados obtidos e descreva **o que você faria a seguir**.  
+   - Exemplo: priorizar a nova versão, ajustar o design, ou rodar novos testes.
+
+---
