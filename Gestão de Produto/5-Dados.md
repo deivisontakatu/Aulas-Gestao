@@ -4,13 +4,15 @@
 
 ## 🎯 Introdução
 
-Product Managers não são apenas profissionais estratégicos — eles também **colocam a mão na massa**.  
-Neste módulo, você aprenderá como **usar dados para guiar decisões**, **definir métricas relevantes**, **rodar experimentos A/B**, e até **extrair insights com SQL**.  
+Os **dados** são o alicerce das decisões inteligentes em **Product Management**.  
+Mais do que intuição, o PM precisa de **evidências concretas** para entender o comportamento dos usuários, medir resultados e priorizar com assertividade.
 
-Ao final, você terá domínio sobre os principais conceitos e ferramentas de **dados e analytics aplicados à gestão de produtos**.
+Neste módulo, você descobrirá **como os dados sustentam toda a estratégia de produto** — desde a definição de hipóteses até a validação de soluções.  
+Aprenderá a **interpretar métricas**, **identificar oportunidades de crescimento**, **avaliar experimentos** e **transformar informações em decisões práticas**.
+
+Com isso, você desenvolverá uma mentalidade **data-driven**, essencial para qualquer Product Manager moderno que deseja **reduzir riscos**, **aumentar impacto** e **criar produtos que realmente entregam valor**.
 
 ---
-
 
 ## 📈 Lidando com Métricas de Negócio e Produto
 
@@ -37,8 +39,6 @@ Uma boa métrica deve ser:
 - **Acionável:** deve levar a uma decisão prática;  
 - **Relevante:** alinhada aos objetivos do produto;  
 - **Mensurável:** baseada em dados confiáveis.
-
-> 🎯 Dica: escolha **1 a 3 métricas principais (North Star Metrics)** que representem o sucesso do produto como um todo.
 
 ---
 
@@ -67,35 +67,6 @@ Ser um PM orientado por dados significa **usar informações quantitativas e qua
 3. **Coletar e analisar dados** — via dashboards, entrevistas, pesquisas, SQL.  
 4. **Testar hipóteses** — através de experimentos ou testes A/B.  
 5. **Medir resultados e aprender** — ajustar com base nos insights obtidos.
-
----
-
-## 🧮 SQL para Análise de Dados
-
-### 🔍 Por que SQL é importante para PMs?
-
-Saber o básico de **SQL (Structured Query Language)** permite que o PM **acesse dados diretamente**, sem depender totalmente de analistas.  
-Isso traz **autonomia, agilidade e profundidade** na análise.
-
----
-
-### 🧱 Principais Comandos SQL
-
-| Comando | Função | Exemplo |
-|----------|---------|----------|
-| `SELECT` | Seleciona colunas e dados | `SELECT name, revenue FROM users;` |
-| `FROM` | Define a tabela a ser usada | `FROM transactions` |
-| `WHERE` | Filtra resultados | `WHERE revenue > 1000` |
-| `GROUP BY` | Agrupa resultados | `GROUP BY region` |
-| `ORDER BY` | Ordena resultados | `ORDER BY created_at DESC` |
-
-> 💡 PMs não precisam ser experts, mas devem entender **como interpretar dados e validar hipóteses com consultas simples.**
-
-### 🧰 Benefícios para o PM
-
-- Tomar decisões embasadas em dados reais;  
-- Identificar padrões e anomalias no comportamento do usuário;  
-- Apoiar times de engenharia e growth com informações relevantes.
 
 ---
 
@@ -177,11 +148,11 @@ Você deverá **definir métricas-chave**, **formular hipóteses**, **propor tes
 1. **Escolha o produto digital**  
    Pode ser um produto real (ex: Spotify, iFood, Nubank) ou fictício.  
 
-2. **Defina a métrica principal (North Star Metric)**  
+2. **Defina a métrica principal**  
    - Qual indicador melhor representa o sucesso do produto?  
    - Exemplos: tempo de uso, conversão, taxa de recompra, retenção etc.
 
-3. **Liste métricas de apoio (input metrics)**  
+3. **Liste métricas de apoio**  
    - Quais métricas ajudam a entender os resultados da North Star Metric?  
    - Ex: cliques em botões, sessões por usuário, tempo médio na tela.
 

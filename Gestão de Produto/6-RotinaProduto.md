@@ -6,9 +6,9 @@
 
 ## 🎯 Introdução
 
-Ser Product Manager exige **maestria para tomar decisões diárias**.  
-Neste módulo, você aprenderá **técnicas, frameworks e metodologias ágeis** que ajudam na rotina de um PM, desde **priorização de sprints** até a **eficiência no dia a dia** com o time.
-
+Ser Product Manager exige **tomar decisões com base em evidências, não em suposições**.  
+Os dados são o ponto de partida para entender o usuário, medir o impacto das entregas e orientar as próximas etapas do produto.
+Também é necessario priorizar demandas, de acordo com a estratégia definida para o produto.
 ---
 
 

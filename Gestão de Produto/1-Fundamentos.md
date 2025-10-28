@@ -25,17 +25,6 @@ Esses produtos são atualizados constantemente com base em **feedbacks, dados e 
 
 ---
 
-### 🔄 Diferença entre Produtos e Plataformas Digitais
-
-| Tipo | Descrição | Exemplo |
-|------|------------|----------|
-| **Produto Digital** | Entrega valor direto para o usuário final. Normalmente possui um ciclo de uso individual. | Trello, Spotify |
-| **Plataforma Digital** | Cria valor conectando diferentes grupos de usuários, como clientes e prestadores de serviço. | Uber, Airbnb, Amazon |
-
-> 💬 *Produtos oferecem valor diretamente; plataformas criam ecossistemas de troca entre usuários.*
-
----
-
 ### 📈 A Curva da Inovação
 
 A **Curva de Adoção da Inovação**, criada por **Everett Rogers**, mostra como as pessoas adotam novas tecnologias e produtos.
@@ -90,50 +79,6 @@ Essa interação constante garante **coerência, eficiência e propósito** no d
 
 ---
 
-## 👑 Papel da Liderança de Produto
-
-A liderança de Produto é essencial para **garantir visão, foco e crescimento do time**.  
-O líder deve inspirar, organizar e desenvolver as pessoas, equilibrando resultados de curto prazo com uma visão de longo prazo.
-
----
-
-### 🧭 A Carreira em Y
-
-Na **carreira em Y**, o profissional pode escolher entre dois caminhos de crescimento:
-
-- **Trilha de Especialista (Individual Contributor):** foca em conhecimento técnico e domínio de frameworks e dados;  
-- **Trilha de Gestão (People Manager):** atua no desenvolvimento de pessoas e na definição de visão e cultura.
-
-Ambos os caminhos são igualmente valorizados em gestão de produtos.
-
----
-
-### 🧱 Princípios e Valores da Liderança
-
-1. **Visão:** clareza sobre onde o time quer chegar;  
-2. **Organização:** garantir ritmo, foco e priorização;  
-3. **Desenvolvimento:** investir nas pessoas e promover autonomia;  
-4. **Ferramentas:** utilizar métricas, frameworks e feedbacks constantes.
-
-Um líder de produto eficaz **cria ambiente de aprendizado**, **confiança** e **autonomia**.
-
----
-
-## 🧩 Estrutura de Times de Produto
-
-Os times de produto são compostos por **profissionais multidisciplinares**, que trabalham juntos para entregar valor ao usuário.
-
-### ⚙️ Papéis em um Time de Produto
-
-| Papel | Responsabilidade |
-|-------|------------------|
-| **Product Manager (PM)** | Define a visão e prioriza as entregas. |
-| **Product Designer (PD)** | Foca na experiência e usabilidade. |
-| **Engenheiros(as)** | Desenvolvem as soluções técnicas. |
-| **Data Analyst** | Analisa dados e métricas para orientar decisões. |
-
----
-
 ### 🔄 Evolução dos Times
 
 Antigamente, os times eram organizados por **projetos** e tinham pouca autonomia.  
@@ -153,7 +98,6 @@ O **modelo Spotify** introduziu os conceitos de **squads, tribos, chapters e gui
 - **Guilda:** comunidade de prática que compartilha conhecimento.
 
 > ⚠️ Apesar de popular, o modelo deve ser **adaptado ao contexto de cada empresa**.  
-> O importante é o princípio: **autonomia com alinhamento**.
 
 ---
 ## 💡 A Matriz BCG

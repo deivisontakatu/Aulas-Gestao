@@ -68,24 +68,6 @@ Hoje, a abordagem moderna é **orientada a resultados**, ou seja, foca **no impa
 
 ---
 
-## 🚀 Release Planning
-
-### 📘 O que é Release Planning?
-
-O **Release Planning** (planejamento de release) é o processo de definir **o escopo, o objetivo e o cronograma de uma entrega significativa do produto**.  
-Cada release deve representar um **avanço perceptível de valor** para o usuário, conectando a execução à visão estratégica.
-
----
-
-### 👥 Quem participa
-
-- **Product Manager (PM):** define objetivos, prioriza e garante alinhamento estratégico.  
-- **Tech Lead / Engenheiros:** avaliam viabilidade técnica e estimam esforço.  
-- **UX / UI Designers:** validam a experiência do usuário e a consistência visual.  
-- **Stakeholders:** contribuem com a visão de negócio e expectativas de impacto.  
-
----
-
 ### 🧮 Técnicas de Priorização
 
 - **RICE (Reach, Impact, Confidence, Effort):** avalia o potencial de impacto em relação ao esforço necessário.  
@@ -96,14 +78,6 @@ Cada release deve representar um **avanço perceptível de valor** para o usuár
 
 ---
 
-### ⏱️ O Tamanho da Release e seu Impacto
-
-- Releases **muito grandes** aumentam riscos e dificultam o aprendizado.  
-- Releases **pequenas e frequentes** favorecem feedback rápido e melhoria contínua.  
-
-> 💡 Planeje releases iterativas, com entregas contínuas e incrementais de valor.
-
----
 
 ## 🔍 Market Research
 
@@ -237,7 +211,7 @@ Para o **Product Manager**, explorar esse mercado requer:
 
 ---
 
-## 🚀 Desafio — Construindo o Roadmap de Produto
+## 🚀 Desafio
 
 Chegou o momento de transformar a **visão do produto** em um **plano estratégico visual**.  
 O desafio é **criar um roadmap de produto** que comunique **o que será feito**, **por que é importante** e **como se conecta aos objetivos do negócio**.

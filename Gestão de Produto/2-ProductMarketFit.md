@@ -80,18 +80,6 @@ Um produto bem-sucedido passa por diferentes tipos de “fit” até atingir est
 
 ---
 
-### 🧩 Product Solution Fit
-
-O **Product Solution Fit** ocorre quando o produto realmente resolve o problema identificado.  
-É o primeiro sinal de que há **aderência entre a solução e a necessidade** do público.
-
-📌 Indicadores:
-- Usuários testam e retornam feedbacks positivos;  
-- A solução gera valor percebido;  
-- O problema é validado com dados reais.
-
----
-
 ### 🏁 Product Market Fit (PMF)
 
 O **Product Market Fit** representa o momento em que o produto encontra **encaixe com o mercado** — ou seja, quando as pessoas realmente desejam, usam e recomendam sua solução.
@@ -103,21 +91,6 @@ O **Product Market Fit** representa o momento em que o produto encontra **encaix
 - Métricas de engajamento crescentes.
 
 > 💬 *Alcançar o Product Market Fit é o primeiro grande marco de sucesso de um produto digital.*
-
----
-
-### 💰 Economic Fit e Unit Economics
-
-O **Economic Fit** analisa se o produto é **financeiramente sustentável**.  
-Isso se mede por meio dos **Unit Economics** — a relação entre o **custo de aquisição de clientes (CAC)** e o **valor gerado por cliente (LTV)**.
-
-| Métrica | Definição | Ideal |
-|----------|------------|--------|
-| **CAC (Custo de Aquisição de Cliente)** | Quanto custa conquistar um novo cliente. | Deve ser menor que o LTV. |
-| **LTV (Lifetime Value)** | Receita média que um cliente gera ao longo do tempo. | Deve ser maior que o CAC. |
-| **Payback** | Tempo necessário para recuperar o CAC. | Quanto menor, melhor. |
-
-📈 O produto atinge o **Economic Fit** quando gera lucro previsível e escalável.
 
 ---
 

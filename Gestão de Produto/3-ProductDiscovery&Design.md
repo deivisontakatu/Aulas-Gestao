@@ -162,9 +162,9 @@ Mapear essa jornada ajuda o time a **entender emoções, frustrações e oportun
 
 ---
 
-## 🚀 Desafio Prático — Jornada de Valor do Usuário
+## 🚀 Desafio
 
-O desafio final é aplicar os conceitos aprendidos e **mapear a experiência completa do usuário** em um produto digital real ou fictício.
+O desafio é aplicar os conceitos aprendidos e **mapear a experiência completa do usuário** em um produto digital real ou fictício.
 
 Com base nas cinco etapas — Descoberta, Onboarding, Uso Recorrente, WOW Moment e AHA Moment —, descreva como o produto:  
 
