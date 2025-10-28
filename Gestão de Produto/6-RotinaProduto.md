@@ -12,7 +12,7 @@ Neste módulo, você aprenderá **técnicas, frameworks e metodologias ágeis** 
 ---
 
 
-## 6.1 ⚡ Priorização de Backlog e Sprints
+## ⚡ Priorização de Backlog e Sprints
 
 ### 💡 Conceito
 
@@ -38,7 +38,7 @@ A **priorização** é essencial para decidir **o que será desenvolvido primeir
 
 ---
 
-## 6.2 🔄 Metodologias Ágeis
+## 🔄 Metodologias Ágeis
 
 ### 💡 Conceito
 
@@ -67,7 +67,7 @@ Um PM deve conhecer os principais frameworks e aplicá-los conforme contexto do 
 
 ---
 
-## 6.3 🧠 Pensamento Sistêmico
+## 🧠 Pensamento Sistêmico
 
 ### 💡 Conceito
 
@@ -83,7 +83,7 @@ O **pensamento sistêmico** permite entender o produto como parte de um **ecossi
 
 ---
 
-## 6.4 ⚡ Eficiência e Eficácia no Dia a Dia
+## ⚡ Eficiência e Eficácia no Dia a Dia
 
 ### 💡 Diferença
 
@@ -101,14 +101,3 @@ O **pensamento sistêmico** permite entender o produto como parte de um **ecossi
 - **Equilíbrio:** PMs devem buscar os dois — entregar mais valor com menos esforço.
 
 ---
-
-## 📚 Conclusão do Módulo
-
-Neste módulo, você aprendeu:
-
-- Técnicas de **priorização de backlog e sprints**;  
-- Principais **metodologias ágeis** e sua aplicação prática;  
-- Como aplicar **pensamento sistêmico** para decisões mais conscientes;  
-- Diferença entre **eficiência e eficácia**, com dicas para equilibrar ambos no dia a dia.
-
-> ✨ *Um Product Manager de sucesso combina visão estratégica com execução eficiente e eficaz.*
