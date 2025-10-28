@@ -44,7 +44,6 @@ Ele comunica **o que será feito, quando e por que**, sem ser um cronograma ríg
 
 ![Exemplo de Roadmap](https://cdn-wcsm.alura.com.br/2025/04/imagem1.png)  
 > *Figura 1 — Exemplo de Roadmap.*  
-> [Fonte: Alura, 2025](https://cdn-wcsm.alura.com.br/2025/04/imagem1.png)
 
 ---
 
@@ -189,39 +188,52 @@ Demandas inesperadas são inevitáveis. Um bom PM precisa lidar com elas de form
 > 🧠 A gestão de stakeholders é uma das habilidades mais estratégicas do PM — e um diferencial claro de liderança.
 
 ---
+# 🛍️ Estudo de Caso — Live Commerce como Estratégia de Produto
 
-## 🛍️ Tendência Emergente — Live Commerce
+## 📺 O que é o Live Commerce?
 
-### 📺 O que é Live Commerce?
+O **Live Commerce** é a integração entre **transmissões ao vivo** e **experiências de compra online**, unindo o entretenimento das lives com a praticidade do e-commerce.  
+Durante as transmissões, **apresentadores ou influenciadores demonstram produtos**, interagem com o público em tempo real, **respondem dúvidas** e **oferecem promoções exclusivas**, o que estimula a **interatividade, o engajamento e a conversão instantânea**.
 
-O **Live Commerce** combina **transmissões ao vivo (lives)** com **experiências de compra online**.  
-Durante a live, apresentadores demonstram produtos, tiram dúvidas e oferecem descontos em tempo real, promovendo **interatividade e conversão instantânea**.
-
----
-
-### 🌏 Sucesso na China e Oportunidades no Brasil
-
-Na **China**, o Live Commerce é uma verdadeira revolução: plataformas como **Taobao Live** e **Douyin (TikTok)** movimentam bilhões de dólares em vendas anuais.  
-Influenciadores se tornaram **vendedores digitais**, aproximando marcas e consumidores de forma autêntica e envolvente.
-
-No **Brasil**, o conceito ainda é **emergente**, mas com **alto potencial de crescimento**, impulsionado por:
-- A popularização das **lives e redes sociais**;  
-- O crescimento acelerado do **e-commerce**;  
-- A busca por **experiências mais humanas e interativas**.  
-
-> 💡 O Live Commerce representa uma **nova fronteira para produtos digitais**, unindo entretenimento, influência e conversão.
+Essa abordagem combina os princípios de **marketing de influência**, **experiência do usuário** e **comércio digital**, criando um ambiente de compra dinâmico e participativo — mais próximo da experiência presencial do varejo.
 
 ---
 
-### 🧭 Estratégia de Produto no Contexto do Live Commerce
+## 🌏 Contexto Global — Sucesso na China
 
-Para explorar esse mercado, o **Product Manager** deve:  
-- Analisar o comportamento e hábitos do consumidor digital brasileiro;  
-- Entender **diferenças culturais e tecnológicas** em relação a outros mercados;  
-- Desenvolver **soluções escaláveis** integrando transmissão ao vivo e e-commerce;  
-- Focar em **experiência do usuário**, **engajamento** e **métricas de conversão**.  
+O **mercado chinês** é o principal exemplo do potencial do Live Commerce.  
+Plataformas como **Taobao Live** e **Douyin (TikTok)** movimentam bilhões de dólares anualmente com transmissões interativas, em que **influenciadores e vendedores** apresentam produtos de forma envolvente e personalizada.
 
-> 🚀 O Live Commerce é uma oportunidade para **inovar na jornada de compra** e **reposicionar produtos digitais** como canais de engajamento e venda em tempo real.
+Esse modelo transformou completamente a jornada de compra, **aproximando marcas e consumidores** por meio da autenticidade e da interação.  
+Além disso, o formato **reduz barreiras de decisão**, pois o consumidor pode ver o produto em uso, esclarecer dúvidas e comprar com poucos cliques — tudo durante a live.
+
+---
+
+## 🇧🇷 Oportunidades no Brasil
+
+No **Brasil**, o Live Commerce ainda está em estágio inicial, mas apresenta **alto potencial de crescimento**.  
+Três fatores principais impulsionam essa tendência:
+
+1. **Popularização das lives e das redes sociais**, que criaram um público acostumado à interação em tempo real;  
+2. **Crescimento acelerado do e-commerce**, consolidando a confiança dos consumidores nas compras digitais;  
+3. **Busca por experiências mais humanas e interativas**, que aproximem marcas e consumidores de forma emocional e personalizada.
+
+Empresas brasileiras já começam a experimentar o modelo, integrando **plataformas de streaming** com **sistemas de venda** e **chat em tempo real**.  
+O desafio é adaptar o formato ao comportamento do consumidor local, equilibrando **entretenimento, credibilidade e conveniência**.
+
+---
+
+## 🧭 Estratégia de Produto no Contexto do Live Commerce
+
+Do ponto de vista de **gestão de produto**, o Live Commerce representa um **novo campo estratégico** que exige **integração multidisciplinar** entre áreas como tecnologia, marketing, experiência do usuário e operações comerciais.
+
+Para o **Product Manager**, explorar esse mercado requer:
+
+1. **Analisar o comportamento do consumidor digital brasileiro**, entendendo seus hábitos de compra e consumo de conteúdo;  
+2. **Compreender as diferenças culturais e tecnológicas** em relação a mercados mais maduros, como o chinês;  
+3. **Desenvolver soluções escaláveis** que conectem transmissão ao vivo, catálogo de produtos e checkout integrado;  
+4. **Focar em métricas de engajamento e conversão**, como tempo médio de visualização, taxa de interação e volume de vendas em tempo real;  
+5. **Priorizar a experiência do usuário**, garantindo uma jornada fluida, intuitiva e emocionalmente positiva.
 
 ---
 
