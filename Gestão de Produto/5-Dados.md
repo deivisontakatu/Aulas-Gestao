@@ -70,17 +70,6 @@ Ser um PM orientado por dados significa **usar informações quantitativas e qua
 
 ---
 
-### 📘 Case: GetNinjas
-
-A empresa utiliza **dados em tempo real** para decidir:
-- quais categorias priorizar,  
-- como ajustar preços, e  
-- como equilibrar a oferta e demanda em seu marketplace.  
-
-Os PMs da GetNinjas analisam **taxas de conversão e recorrência** para identificar gargalos e testar novas funcionalidades de forma rápida.
-
----
-
 ## 🧮 SQL para Análise de Dados
 
 ### 🔍 Por que SQL é importante para PMs?
@@ -101,8 +90,6 @@ Isso traz **autonomia, agilidade e profundidade** na análise.
 | `ORDER BY` | Ordena resultados | `ORDER BY created_at DESC` |
 
 > 💡 PMs não precisam ser experts, mas devem entender **como interpretar dados e validar hipóteses com consultas simples.**
-
----
 
 ### 🧰 Benefícios para o PM
 
@@ -178,7 +165,7 @@ Neste desafio, você vai **assumir o papel de Product Manager orientado por dado
 
 ---
 
-### 🎯 Objetivo
+### 🎯 Desafio
 
 Criar uma **análise estratégica baseada em dados** para um produto digital de sua escolha — pode ser um **app, e-commerce, plataforma SaaS ou marketplace**.  
 Você deverá **definir métricas-chave**, **formular hipóteses**, **propor testes A/B** e **indicar quais insights podem orientar melhorias reais no produto.**
