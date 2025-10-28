@@ -20,6 +20,7 @@ Este documento mostra **diversos recursos do Markdown**, do básico ao avançado
 13. [Diagramas Extras](#-diagramas-extras)
 14. [ASCII/Unicode](#-asciiunicode)
 15. [Blocos de Alerta](#-blocos-de-alerta)
+16. [Estrutura de Pastas](#-estrutura-de-pastas)
 
 ---
 
@@ -204,6 +205,52 @@ Exemplo de menu com **ASCII Art**:
 
 > [!WARNING]  
 > Atenção: algo importante aqui.  
+
+---
+
+# 🌐 Estrutura de Pastas — Projeto Web
+
+```bash
+meu-projeto/
+├── public/                     # Arquivos públicos acessíveis diretamente
+│   ├── index.html              # Página principal
+│   ├── favicon.ico             # Ícone do site
+│   └── assets/                 # Imagens, ícones, etc.
+│       ├── logo.png
+│       └── banner.jpg
+│
+├── src/                        # Código-fonte principal
+│   ├── components/             # Componentes reutilizáveis
+│   │   ├── Header.jsx
+│   │   ├── Footer.jsx
+│   │   └── Button.jsx
+│   │
+│   ├── pages/                  # Páginas da aplicação
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   └── Contact.jsx
+│   │
+│   ├── services/               # Comunicação com APIs / back-end
+│   │   └── api.js
+│   │
+│   ├── hooks/                  # Hooks customizados
+│   │   └── useAuth.js
+│   │
+│   ├── context/                # Contextos globais (ex: autenticação, tema)
+│   │   └── AuthContext.jsx
+│   │
+│   ├── styles/                 # Estilos globais e temas
+│   │   ├── global.css
+│   │   └── variables.css
+│   │
+│   ├── App.jsx                 # Componente raiz
+│   └── main.jsx                # Ponto de entrada da aplicação
+│
+├── .gitignore                  # Arquivos ignorados pelo Git
+├── package.json                # Dependências e scripts do projeto
+├── vite.config.js              # Configuração do bundler (Vite)
+└── README.md                   # Documentação do projeto
+```
 
 ---
 
